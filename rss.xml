@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Universal Health Aid]]></title>
+        <description><![CDATA[Universal Health Aid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 20:30:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Universal Health Aid | Think Universal]]></title>
+            <description><![CDATA[<article><h1>Universal Health Aid | Think Universal</h1><p>The Universal Health Fair is our signature program. Run annually by all our chapters, the program provides a unique opportunity for the community to walk-in and create a customized lifestyle plan that suits their needs, free of charge to the public. We believe in a holistic approach to preventive medicine.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23f70870cd62ac37ff55ce292cf6d68b/noop.jpg?input=http%3A%2F%2Fwww.universalhealthaid.org%2Fwp-content%2Fuploads%2F2014%2F07%2F976784_551608894887353_79327514_o-400x284.jpg"></article>]]></description>
+            <link>http://www.universalhealthaid.org/</link>
+            <guid isPermaLink="false">b026317f-eb09-4edd-bcf4-4d14bf969d66</guid>
+            <pubDate>Mon, 27 Jun 2016 20:30:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
